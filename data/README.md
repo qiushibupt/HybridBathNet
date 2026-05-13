@@ -82,7 +82,7 @@ For positive water depth values \(h \ge 0\), the normalization function is:
 $$
 y =
 \begin{cases}
-\dfrac{h^2}{20}, & 0 \le h \le 2 \\[6pt]
+\dfrac{h^2}{20}, & 0 \le h \le 2 \\
 \dfrac{h}{h+8}, & h > 2
 \end{cases}
 $$
